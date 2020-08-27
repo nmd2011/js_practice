@@ -1,0 +1,17 @@
+{
+  "name": "js_practice",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "api.js",
+  "scripts": {
+    "test": "npm api.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "test"
+  ],
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
